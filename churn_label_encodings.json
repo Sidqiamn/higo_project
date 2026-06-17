@@ -1,0 +1,126 @@
+{
+  "Tipe_Lokasi": {
+    "categories": [
+      "Cafe",
+      "Co-working Space",
+      "Kampus",
+      "Mall",
+      "Perpustakaan",
+      "Warnet"
+    ],
+    "dummy_columns": [
+      "Tipe_Lokasi_Co-working Space",
+      "Tipe_Lokasi_Kampus",
+      "Tipe_Lokasi_Mall",
+      "Tipe_Lokasi_Perpustakaan",
+      "Tipe_Lokasi_Warnet"
+    ]
+  },
+  "Jenis_Kelamin": {
+    "categories": [
+      "Laki-laki",
+      "Perempuan"
+    ],
+    "dummy_columns": [
+      "Jenis_Kelamin_Perempuan"
+    ]
+  },
+  "Merk_HP": {
+    "categories": [
+      "Huawei",
+      "Lenovo",
+      "Nokia",
+      "OnePlus",
+      "Oppo",
+      "Realme",
+      "Samsung",
+      "Vivo",
+      "Xiaomi",
+      "iPhone"
+    ],
+    "dummy_columns": [
+      "Merk_HP_Lenovo",
+      "Merk_HP_Nokia",
+      "Merk_HP_OnePlus",
+      "Merk_HP_Oppo",
+      "Merk_HP_Realme",
+      "Merk_HP_Samsung",
+      "Merk_HP_Vivo",
+      "Merk_HP_Xiaomi",
+      "Merk_HP_iPhone"
+    ]
+  },
+  "Minat_Digital": {
+    "categories": [
+      "Berita & Informasi",
+      "E-commerce",
+      "Gaming",
+      "Kesehatan Digital",
+      "Keuangan Digital",
+      "Pendidikan Online",
+      "Social Media",
+      "Streaming Video"
+    ],
+    "dummy_columns": [
+      "Minat_Digital_E-commerce",
+      "Minat_Digital_Gaming",
+      "Minat_Digital_Kesehatan Digital",
+      "Minat_Digital_Keuangan Digital",
+      "Minat_Digital_Pendidikan Online",
+      "Minat_Digital_Social Media",
+      "Minat_Digital_Streaming Video"
+    ]
+  },
+  "OS_Perangkat": {
+    "categories": [
+      "Android",
+      "iOS"
+    ],
+    "dummy_columns": [
+      "OS_Perangkat_iOS"
+    ]
+  },
+  "Segmen_HP": {
+    "categories": [
+      "Budget",
+      "Mid-range",
+      "Premium"
+    ],
+    "dummy_columns": [
+      "Segmen_HP_Mid-range",
+      "Segmen_HP_Premium"
+    ]
+  },
+  "Status_Pekerjaan": {
+    "categories": [
+      "Freelancer",
+      "Karyawan",
+      "Karyawan Part-time",
+      "Mahasiswa",
+      "Pelajar",
+      "Pensiun",
+      "Tidak Bekerja",
+      "Wirausaha"
+    ],
+    "dummy_columns": [
+      "Status_Pekerjaan_Karyawan",
+      "Status_Pekerjaan_Karyawan Part-time",
+      "Status_Pekerjaan_Mahasiswa",
+      "Status_Pekerjaan_Pelajar",
+      "Status_Pekerjaan_Pensiun",
+      "Status_Pekerjaan_Tidak Bekerja",
+      "Status_Pekerjaan_Wirausaha"
+    ]
+  },
+  "Generasi": {
+    "categories": [
+      "Gen X",
+      "Gen Z",
+      "Milenial"
+    ],
+    "dummy_columns": [
+      "Generasi_Gen Z",
+      "Generasi_Milenial"
+    ]
+  }
+}
